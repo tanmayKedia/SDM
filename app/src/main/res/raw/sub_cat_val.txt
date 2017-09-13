@@ -1,0 +1,2 @@
+(1, 1, 'Toalety', '', '', '', 'hMF27az.png', 1)
+(2, 2, 'Kościoły', '', '', '', 'LOQIEa6.jpg', 1)

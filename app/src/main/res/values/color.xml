@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="share_button_color">#575358</color>
+    <color name="divider_color">#aca8ad</color>
+    <color name="action_bar_color">#fffff0</color>
+    <color name="background_color">#fffff8</color>
+    <color name="blue">#6cdadc</color>
+</resources>

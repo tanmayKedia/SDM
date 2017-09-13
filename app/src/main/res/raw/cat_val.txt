@@ -1,0 +1,2 @@
+(1, 'Opis brzegów', '', '', '', 1, 'PZ5Iqyy.png')
+(2, 'Pozostałe miejsca', '', '', '', 2, 'rc1v35M.jpg')
